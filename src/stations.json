@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "EVgo Freedom Station 1",
+    "address": "100 Elm St, Anytown USA",
+    "manufacturer": "EVgo",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "EVgo Freedom Station 2",
+    "address": "200 Oak St, Anytown USA",
+    "manufacturer": "EVgo",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      },
+      {
+        "type": "DC Fast Charger",
+        "availability": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ChargePoint Home 1",
+    "address": "300 Maple St, Anytown USA",
+    "manufacturer": "ChargePoint",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ChargePoint Home 2",
+    "address": "400 Pine St, Anytown USA",
+    "manufacturer": "ChargePoint",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      },
+      {
+        "type": "DC Fast Charger",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tesla Supercharger 1",
+    "address": "500 Birch St, Anytown USA",
+    "manufacturer": "Tesla",
+    "connectors": [
+      {
+        "type": "Tesla Supercharger",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tesla Supercharger 2",
+    "address": "600 Cedar St, Anytown USA",
+    "manufacturer": "Tesla",
+    "connectors": [
+      {
+        "type": "Tesla Supercharger",
+        "availability": false
+      },
+      {
+        "type": "Level 2",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "ChargePoint Express 1",
+    "address": "700 Spruce St, Anytown USA",
+    "manufacturer": "ChargePoint",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      },
+      {
+        "type": "DC Fast Charger",
+        "availability": true
+      },
+      {
+        "type": "Tesla Supercharger",
+        "availability": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ChargePoint Express 2",
+    "address": "800 Willow St, Anytown USA",
+    "manufacturer": "ChargePoint",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "EVgo Freedom Station 3",
+    "address": "900 Dogwood St, Anytown USA",
+    "manufacturer": "EVgo",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": false
+      },
+      {
+        "type": "DC Fast Charger",
+        "availability": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "EVgo Freedom Station 4",
+    "address": "1000 Cherry St, Anytown USA",
+    "manufacturer": "EVgo",
+    "connectors": [
+      {
+        "type": "Level 2",
+        "availability": true
+      },
+      {
+        "type": "DC Fast Charger",
+        "availability": true
+      },
+      {
+        "type": "Tesla Supercharger",
+        "availability": true
+      }
+    ]
+  }
+]
